@@ -1,0 +1,111 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #9ec7f4;
+}
+
+header {
+    background-color: #63a7ee;
+    box-shadow: 0 2px 4px #032b67;
+    padding: 20px;
+}
+
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: #6495ED;
+    padding: 5px 0;
+}
+
+.hero {
+    background-image: url('LP_images/bg_img_1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #33186B;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+}
+
+.hero p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.features {
+    padding: 50px 0;
+    background-color: #8d8ad4;
+}
+
+.features h2 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #33186B;
+}
+
+.features .col-lg-4 {
+    text-align: center;
+}
+
+.features img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.features h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.features p {
+    font-size: 1.1rem;
+}
+
+.pricing {
+    padding: 50px 0;
+    background-color: #8d8ad4;
+}
+
+.pricing h2 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #33186B;
+}
+
+.pricing .card {
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    background-color: #f3f2f6;
+}
+
+.pricing .card-body h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.pricing .card-body p {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+}
+
+.pricing .card-body a {
+    font-size: 1.1rem;
+    padding: 10px 30px;
+}
+
