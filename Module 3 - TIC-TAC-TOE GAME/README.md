@@ -1,9 +1,6 @@
 <h1 align="left">TIC-TAC-TOE-GAME</h1>
 
 
-## :rocket: Knowledges
- - `ReactJS`
- - `Framer Motion`
 
 
 ```
