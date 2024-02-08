@@ -5,7 +5,7 @@
 
 ```
 # Clone this repository
-$ git clone 
+$ download this directory and setup in terminal
 
 # Go into the repository
 $ cd TIC-TAC-TOE-GAME
